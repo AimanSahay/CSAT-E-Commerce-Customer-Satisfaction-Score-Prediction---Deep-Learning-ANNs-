@@ -15,6 +15,27 @@ Customer satisfaction is a critical indicator of **loyalty, repeat purchasing be
 ## Dataset Overview
 The dataset contains customer interaction records from an e-commerce platform called Shopzilla (1 month).
 
+- **Unique id:** Unique identifier for each record (integer).
+- **Channel name:** Name of the customer service channel (object/string),3 unique channel name.
+- **Category:** Category of the interaction (object/string) ,12 unique category.
+- **Sub-category:** Sub-category of the interaction (object/string),57 unique sub-category.
+- **Customer Remarks:** Feedback provided by the customer (object/string).
+- **Order id:** Identifier for the order associated with the interaction (integer).
+- **Order date time:** Date and time of the order (datetime).
+- **Issue reported at:** Timestamp when the issue was reported (datetime).
+- **Issue responded:** Timestamp when the issue was responded to (datetime).
+- **Survey response date:** Date of the customer survey response (datetime).
+- **Customer city:** City of the customer (object/string),1782 unique Customer city.
+- **Product category:** Category of the product (object/string),9 unique product category.
+- **Item price:** Price of the item (float).
+- **Connected handling time:** Time taken to handle the interaction (float).
+- **Agent name:** Name of the customer service agent (object/string),1371 unique agent name.
+- **Supervisor:** Name of the supervisor (object/string),40 unique Supervisor.
+- **Manager:** Name of the manager (object/string),6 unique manager.
+- **Tenure Bucket:** Bucket categorizing agent tenure (object/string).
+- **Agent Shift:** Shift timing of the agent (object/string).
+- **CSAT Score:** Customer Satisfaction (CSAT) score (integer) (***Target-Variable***).
+
 ---
 
 ## Project Goal
