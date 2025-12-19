@@ -21,13 +21,13 @@ The goal of this project is to **develop a Deep Learning–based Artificial Neur
 ---
 
 ## Tech Stack
-- Programming Language: Python 🐍
-- Deep Learning Framework: TensorFlow / Keras
-- Data Handling & Analysis: Pandas, NumPy, Scikit-learn
-- Model Saving/Loading: Joblib, H5 Format
-- Frontend: Streamlit
-- Visualization: Matplotlib, Seaborn
-- Version Control: Git & GitHub
+- **Programming Language:** Python
+- **Deep Learning Framework:** TensorFlow / Keras
+- **Data Handling & Analysis:** Pandas, NumPy, Scikit-learn
+- **Model Saving/Loading:** Joblib, H5 Format
+- **Frontend:** Streamlit
+- **Visualization:** Matplotlib, Seaborn
+- **Version Control:** Git & GitHub
 
 ---
 
