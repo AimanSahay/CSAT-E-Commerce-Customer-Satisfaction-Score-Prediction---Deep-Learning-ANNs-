@@ -1,5 +1,7 @@
 # 🛒 E-Commerce Customer Satisfaction Score Prediction (Deep Learning Model)
 
+---
+
 ## Project Summary
 This project aims to predict Customer Satisfaction (CSAT) scores using Deep Learning techniques, specifically Artificial Neural Networks (ANN). In the e-commerce domain, accurately understanding customer satisfaction from interaction data and feedback is essential for enhancing service quality, strengthening customer retention, and supporting long-term business growth. By applying a neural network–based model, this project enables reliable CSAT score predictions from customer interaction data, providing actionable, real-time insights that organizations can use to identify service gaps and improve overall customer experience.
 
